@@ -1,0 +1,78 @@
+[
+  {
+    "name": "alerts",
+    "file": "src/commands/alerts.js"
+  },
+  {
+    "name": "delete",
+    "file": "src/commands/moderation.js"
+  },
+  {
+    "name": "forecast",
+    "file": "src/commands/forecast.js"
+  },
+  {
+    "name": "help",
+    "file": "src/commands/help.js"
+  },
+  {
+    "name": "lock",
+    "file": "src/commands/moderation.js"
+  },
+  {
+    "name": "moderation",
+    "file": "src/commands/moderation.js"
+  },
+  {
+    "name": "modlog",
+    "file": "src/commands/moderation.js"
+  },
+  {
+    "name": "news",
+    "file": "src/commands/news.js"
+  },
+  {
+    "name": "purge",
+    "file": "src/commands/moderation.js"
+  },
+  {
+    "name": "removewarn",
+    "file": "src/commands/moderation.js"
+  },
+  {
+    "name": "report",
+    "file": "src/commands/report.js"
+  },
+  {
+    "name": "reset",
+    "file": "src/commands/reset.js"
+  },
+  {
+    "name": "start",
+    "file": "src/commands/start.js"
+  },
+  {
+    "name": "strictwarn",
+    "file": "src/commands/moderation.js"
+  },
+  {
+    "name": "ticket",
+    "file": "src/commands/ticket.js"
+  },
+  {
+    "name": "unlock",
+    "file": "src/commands/moderation.js"
+  },
+  {
+    "name": "warn",
+    "file": "src/commands/moderation.js"
+  },
+  {
+    "name": "warnings",
+    "file": "src/commands/moderation.js"
+  },
+  {
+    "name": "weather",
+    "file": "src/commands/weather.js"
+  }
+]
